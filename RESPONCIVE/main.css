@@ -1,0 +1,89 @@
+.logo{
+    background-image: url(recourses/images/boltlogo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 69px;
+    height: 40px;
+}
+.imagephone{
+    width: 300px;
+    height: 400px;
+}
+.bd{
+
+    padding-top: 100px;
+    
+}
+
+.img1{
+    max-width: 720px;
+    max-height: 750px;
+}
+.ult{
+    text-decoration: none;
+    list-style: none;
+}
+.gply{
+    width: 160px;
+    height: 100px;
+}
+.bgcolor{
+    background-color: #2eb875;
+}
+
+.image{
+    max-width: 200px;
+    max-height: 200px;
+}
+.images{
+    max-width: 200px;
+    max-height: 250px;
+}
+
+.imagesl{
+    width: 40px;
+    height: 70px;
+}
+.imagesl2{
+    width: 35px;
+    height: 70px;
+}
+.imagesl3{
+    width: 50px;
+    height: 70px;
+}
+  .centere{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+.greencolor{
+   background-color: #d9fde5;
+}
+.alignclass{
+   
+    justify-content: center;
+    align-items:center;
+}
+.mee{
+    border-radius: 100px;
+}
+.bgcolor2{
+    background-color: #6675ff;
+}
+.pdingg{
+    padding-top: 90px;
+    padding-left: 30px;
+}
+
+
+
+.btn {
+   
+    --bs-btn-font-weight: 600;
+    --bs-btn-border-radius: 37.375rem;
+  }
+  
